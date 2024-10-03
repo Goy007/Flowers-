@@ -1,0 +1,16 @@
+{
+  "name": "kejutan-bunga",
+  "version": "1.0.0",
+  "description": "-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe",
+  "main": "main.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
